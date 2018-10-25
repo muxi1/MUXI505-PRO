@@ -4,7 +4,7 @@ Original (BIN-Loader)
 
 Mira CFW (Mira+HEN v1.7)
 
-HEN ( HEN 1.5, HEN 1.6, HEN 1.7, HEN MOD by C0d3m4st4, HEN 1.8 by Zecoxao)
+HEN ( HEN 1.5 - HEN 1.6 - HEN 1.7 - HEN 1.7 MOD by C0d3m4st4 - HEN 1.8 by Zecoxao)
 
 VR Enable v1
 
