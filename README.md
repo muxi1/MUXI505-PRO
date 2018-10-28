@@ -1,4 +1,4 @@
-**********VERSION 1.0
+**VERSION 1.0**
 
 the following Payloads are included:
 
@@ -45,7 +45,7 @@ FileSystem Dumper v1
 DB Backup
 
 
-**********VERSION 1.1
+**VERSION 1.1**
 
 added:
 Auth-Info Dumper
