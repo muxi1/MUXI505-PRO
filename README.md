@@ -10,7 +10,7 @@ VR Enable v1
 
 FTP v1.3
 
-Backup v3
+DB SG Backup v3
 
 FTP-RW
 
@@ -40,4 +40,4 @@ disable Update Blocker extreme
 
 FileSystem Dumper v1
 
-DB only Backup
+DB Backup
