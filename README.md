@@ -1,6 +1,6 @@
 **VERSION 1.0**
 
-the following Payloads are included:
+Folgende Payloads sind integriert:
 
 Original (BIN-Loader)
 
@@ -47,7 +47,4 @@ DB Backup
 
 **VERSION 1.1**
 
-added:
-Auth-Info Dumper
-
-USB Cache Installer
+Auth-Info Dumper und USB Cache Installer hinzugefügt
