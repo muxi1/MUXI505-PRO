@@ -47,4 +47,7 @@ DB Backup
 
 **VERSION 1.1**
 
-Auth-Info Dumper und USB Cache Installer hinzugefügt
+hinzugefügt:
+Auth-Info Dumper
+
+USB Cache Installer
