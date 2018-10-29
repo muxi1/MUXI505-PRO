@@ -1,4 +1,4 @@
-**VERSION 1.0**
+**VERSION 1.2**
 
 Folgende Payloads sind integriert:
 
@@ -24,7 +24,7 @@ Kernel-Dumper v2
 
 DB Restore v2
 
-App2USB v3
+App2USB v4
 
 DUMPER V1.8
 
@@ -43,11 +43,6 @@ disable Update Blocker extreme
 FileSystem Dumper v1
 
 DB Backup
-
-
-**VERSION 1.1**
-
-hinzugefügt:
 
 Auth-Info Dumper
 
