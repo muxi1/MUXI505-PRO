@@ -1,4 +1,4 @@
-**VERSION 1.2**
+**VERSION 1.4**
 
 Folgende Payloads sind integriert:
 
@@ -47,3 +47,7 @@ DB Backup v3
 Auth-Info Dumper
 
 USB Cache Installer
+
+Disc DUMPER v1
+
+PKG Backup v1
