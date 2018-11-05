@@ -26,7 +26,7 @@ DB Restore v2
 
 App2USB v4
 
-DUMPER V1.8
+GAME DUMPER V1.8
 
 reactPSPLUS
 
@@ -50,4 +50,4 @@ USB Cache Installer
 
 Disc DUMPER v1
 
-PKG Backup v1
+PKG Backup v2
