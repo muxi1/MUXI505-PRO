@@ -1,4 +1,4 @@
-**VERSION 1.4**
+**VERSION 1.5**
 
 Folgende Payloads sind integriert:
 
@@ -50,4 +50,4 @@ USB Cache Installer
 
 Disc DUMPER v1
 
-PKG Backup v2
+PKG Backup v3
