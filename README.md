@@ -1,4 +1,4 @@
-**VERSION 1.6**
+**VERSION 1.7**
 
 Folgende Payloads sind integriert:
 
@@ -15,10 +15,6 @@ FTP v1.3
 DB SG Backup v3
 
 FTP-RW
-
-Linux
-
-KEXEC
 
 Kernel-Dumper v2
 
@@ -51,3 +47,5 @@ USB Cache Installer
 Disc DUMPER v1
 
 PKG Backup v3
+
+PS4 Remote Play Enabler
