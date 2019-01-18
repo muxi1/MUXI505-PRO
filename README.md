@@ -1,4 +1,4 @@
-**VERSION 1.8**
+**VERSION 1.9**
 
 Folgende Payloads sind integriert:
 
@@ -37,6 +37,8 @@ enable Update Blocker extreme
 disable Update Blocker extreme
 
 FileSystem Dumper v1
+
+Avatar Dumper
 
 DB Backup v3
 
