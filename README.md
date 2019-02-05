@@ -1,4 +1,4 @@
-**VERSION 1.9**
+**VERSION 2.0**
 
 Folgende Payloads sind integriert:
 
@@ -39,6 +39,8 @@ disable Update Blocker extreme
 FileSystem Dumper v1
 
 Avatar Dumper
+
+Avatar Injector
 
 DB Backup v3
 
