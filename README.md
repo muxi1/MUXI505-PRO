@@ -1,4 +1,4 @@
-**VERSION 2.0**
+**VERSION 2.1**
 
 Folgende Payloads sind integriert:
 
@@ -41,6 +41,8 @@ FileSystem Dumper v1
 Avatar Dumper
 
 Avatar Injector
+
+Linux Loader
 
 DB Backup v3
 
