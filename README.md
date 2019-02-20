@@ -1,4 +1,4 @@
-**VERSION 2.1**
+**VERSION 2.2**
 
 Folgende Payloads sind integriert:
 
@@ -20,7 +20,7 @@ Kernel-Dumper v2
 
 DB Restore v2
 
-App2USB v4
+App2USB v5
 
 GAME DUMPER V1.8
 
@@ -42,7 +42,7 @@ Avatar Dumper
 
 Avatar Injector
 
-Linux Loader
+Linux (1GB VRAM - 2GB VRAM - 3GB VRAM - No Edid)
 
 DB Backup v3
 
