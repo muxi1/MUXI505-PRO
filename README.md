@@ -1,4 +1,4 @@
-**VERSION 2.3**
+**VERSION 2.4**
 
 Folgende Payloads sind integriert:
 
@@ -6,7 +6,7 @@ Original (BIN-Loader)
 
 Mira CFW (Mira+HEN v1.7)
 
-HEN ( HEN 1.5 - HEN 1.6 - HEN 1.6 + VR - HEN 1.7 - HEN 1.7 MOD by c0d3m4st4 - HEN 1.8 by zecoxao - HEN 1.8+VR by stooged - HEN 1.9 by LightningMods)
+HEN ( HEN 1.5 - HEN 1.6 - HEN 1.6 + VR - HEN 1.7 - HEN 1.7 MOD by c0d3m4st4 - HEN 1.8 by zecoxao - HEN 1.8+VR by stooged - HEN 2.0 by SiSTR0)
 
 VR Enable v1
 
