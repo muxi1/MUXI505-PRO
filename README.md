@@ -6,7 +6,7 @@ Original (BIN-Loader)
 
 Mira CFW (Mira+HEN v1.7)
 
-HEN ( HEN 1.5 - HEN 1.6 + VR - HEN 1.7 - HEN 1.7 MOD by c0d3m4st4 - HEN 1.8 by zecoxao - HEN 1.8+VR by stooged - HEN 2.0 by SiSTR0 - HEN 2.1.2 beta by NulledPointer)
+HEN ( HEN 1.5 - HEN 1.6+VR - HEN 1.7 - HEN 1.7 MOD by c0d3m4st4 - HEN 1.8 by zecoxao - HEN 1.8+VR by stooged - HEN 2.0 by SiSTR0 - HEN 2.1.2 beta by NulledPointer)
 
 VR Enable v1
 
@@ -42,7 +42,7 @@ Avatar Dumper
 
 Avatar Injector
 
-Linux (2GB VRAM - 3GB VRAM - No Edid - HDD intern)
+Linux (2GB VRAM - No Edid - HDD intern - 3GB VRAM)
 
 DB Backup v3
 
