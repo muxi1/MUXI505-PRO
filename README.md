@@ -1,4 +1,4 @@
-**VERSION 2.9**
+**VERSION 3.0**
 
 Folgende Payloads sind integriert:
 
@@ -57,3 +57,5 @@ PKG Backup v3
 PS4 Remote Play Enabler
 
 syscall 112 Installer by Zecoxao
+
+Infinix Package Installer
