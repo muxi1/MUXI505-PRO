@@ -6,7 +6,7 @@ Original (BIN-Loader)
 
 Mira CFW (Mira+HEN v1.7)
 
-HEN 2.1.4 by xXxTheDarkProgrammerxXx
+HEN 2.1.4 by xXxTheDarkProgramerxXx
 
 VR Enable v1
 
