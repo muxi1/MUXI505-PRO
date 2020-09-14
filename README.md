@@ -1,10 +1,10 @@
-**VERSION 3.3**
+**VERSION 3.4**
 
 Folgende Payloads sind integriert:
 
 Original (BIN-Loader)
 
-Mira CFW (Mira+HEN v1.7)
+WebRTE
 
 HEN 2.1.4 by xXxTheDarkProgramerxXx
 
