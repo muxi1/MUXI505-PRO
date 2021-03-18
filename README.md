@@ -6,7 +6,7 @@ Original (BIN-Loader)
 
 WebRTE
 
-HEN 2.1.4 by xXxTheDarkProgramerxXx / HEN 2.1.4 Mod by Leeful (v3.4a)
+HEN 2.1.4 by xXxTheDarkProgramerxXx (v3.4) / HEN 2.1.4 Mod by Leeful (v3.4a)
 
 VR Enable v1
 
