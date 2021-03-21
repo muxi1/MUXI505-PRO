@@ -1,4 +1,4 @@
-**VERSION 3.4 / 3.4a**
+**VERSION 3.5**
 
 Folgende Payloads sind integriert:
 
@@ -6,7 +6,7 @@ Original (BIN-Loader)
 
 WebRTE
 
-HEN 2.1.4 by xXxTheDarkProgramerxXx (v3.4) / HEN 2.1.4 Mod by Leeful (v3.4a)
+GoldHEN v1.0 by SiSTR0
 
 VR Enable v1
 
