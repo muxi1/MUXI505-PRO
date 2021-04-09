@@ -1,4 +1,4 @@
-**VERSION 3.6**
+**VERSION 3.7**
 
 Folgende Payloads sind integriert:
 
@@ -6,11 +6,9 @@ Original (BIN-Loader)
 
 WebRTE
 
-GoldHEN v1.0 by SiSTR0
+GoldHEN v1.1 by SiSTR0
 
 VR Enable v1
-
-FTP v1.3
 
 DB SG Backup v3
 
