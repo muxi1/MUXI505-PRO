@@ -1,6 +1,6 @@
 **VERSION 4.0**
 
-![Hauptmenü](https://user-images.githubusercontent.com/39792666/120893032-53f15280-c611-11eb-8271-53a450586cdc.jpg)
+![Hauptmenü](https://user-images.githubusercontent.com/39792666/124426650-a043c580-dd6a-11eb-8a26-21b5feb56d7a.jpg)
 ![Auswahl-HEN](https://user-images.githubusercontent.com/39792666/121473742-6679dc00-c9c3-11eb-9a06-a677496c0fec.jpg)
 ![Untermenü-Tools](https://user-images.githubusercontent.com/39792666/114219125-8f053b80-996a-11eb-9f02-6cd724b8cbd0.jpg)
 ![Auswahl-DUMPER](https://user-images.githubusercontent.com/39792666/114219135-92002c00-996a-11eb-8fe3-e8d168797210.jpg)
