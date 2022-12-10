@@ -1,10 +1,10 @@
-**VERSION 5.2**
+**VERSION 6.0**
 
 ![Hauptmenü](https://user-images.githubusercontent.com/39792666/193330698-34af334a-30a1-4e67-84ef-fb6dd341fd8e.jpg)
 ![Untermenü-Tools](https://user-images.githubusercontent.com/39792666/114219125-8f053b80-996a-11eb-9f02-6cd724b8cbd0.jpg)
 ![Auswahl-DUMPER](https://user-images.githubusercontent.com/39792666/114219135-92002c00-996a-11eb-8fe3-e8d168797210.jpg)
 ![Auswahl-BLOCKER](https://user-images.githubusercontent.com/39792666/114219142-94fb1c80-996a-11eb-8121-1d461834a515.jpg)
-![Untermenü-Mehr Tools](https://user-images.githubusercontent.com/39792666/120893048-6a97a980-c611-11eb-9a1a-5167aeeaf35e.jpg)
+![Untermenü-Mehr Tools](https://user-images.githubusercontent.com/39792666/206855374-9f19789e-31ab-4ce8-8c03-c077bf559e7d.jpg)
 ![Auswahl-LINUX](https://user-images.githubusercontent.com/39792666/114219186-a17f7500-996a-11eb-96f9-04f21f2882a7.jpg)
 
 Folgende Payloads sind integriert:
@@ -13,7 +13,7 @@ Original (BIN-Loader)
 
 WebRTE
 
-GoldHEN v2.2.5b2 by SiSTR0
+GoldHEN v2.2.5b8 by SiSTR0
 
 VR Enable v1
 
@@ -66,5 +66,3 @@ syscall 112 Installer by Zecoxao
 Infinix Package Installer
 
 PS4 Debugger by jgolden
-
-Orbis Toolbox v1.0 Build 1190
