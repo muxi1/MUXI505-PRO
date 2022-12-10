@@ -1,6 +1,6 @@
 **VERSION 6.0**
 
-![Hauptmenü](https://user-images.githubusercontent.com/39792666/193330698-34af334a-30a1-4e67-84ef-fb6dd341fd8e.jpg)
+![Hauptmenü](https://user-images.githubusercontent.com/39792666/206855408-aed8f96a-5a94-44af-9ac2-ff1159614864.jpg)
 ![Untermenü-Tools](https://user-images.githubusercontent.com/39792666/114219125-8f053b80-996a-11eb-9f02-6cd724b8cbd0.jpg)
 ![Auswahl-DUMPER](https://user-images.githubusercontent.com/39792666/114219135-92002c00-996a-11eb-8fe3-e8d168797210.jpg)
 ![Auswahl-BLOCKER](https://user-images.githubusercontent.com/39792666/114219142-94fb1c80-996a-11eb-8121-1d461834a515.jpg)
