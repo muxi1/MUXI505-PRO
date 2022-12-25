@@ -1,6 +1,6 @@
 **VERSION 6.0**
 
-![Hauptmenü](https://user-images.githubusercontent.com/39792666/206855408-aed8f96a-5a94-44af-9ac2-ff1159614864.jpg)
+![Hauptmenü](https://user-images.githubusercontent.com/39792666/209475561-f6a50723-c69e-49a5-b4ee-4c4a831953ca.jpg)
 ![Untermenü-Tools](https://user-images.githubusercontent.com/39792666/114219125-8f053b80-996a-11eb-9f02-6cd724b8cbd0.jpg)
 ![Auswahl-DUMPER](https://user-images.githubusercontent.com/39792666/114219135-92002c00-996a-11eb-8fe3-e8d168797210.jpg)
 ![Auswahl-BLOCKER](https://user-images.githubusercontent.com/39792666/114219142-94fb1c80-996a-11eb-8121-1d461834a515.jpg)
@@ -13,7 +13,7 @@ Original (BIN-Loader)
 
 WebRTE
 
-GoldHEN v2.2.5b8 by SiSTR0
+GoldHEN v2.3 by SiSTR0
 
 VR Enable v1
 
