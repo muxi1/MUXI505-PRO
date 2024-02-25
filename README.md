@@ -68,6 +68,10 @@ Infinix Package Installer
 PS4 Debugger by jgolden
 
 
+
+
+
+
 **LITE VERSION 15**
 
 ![MUXI505_Lite_2024](https://github.com/muxi1/MUXI505-PRO/assets/39792666/a00db5b3-789c-4390-b017-d4caa3fb43bc)
