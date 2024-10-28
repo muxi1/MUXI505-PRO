@@ -1,4 +1,4 @@
-**VERSION 6.7**
+**VERSION 6.8**
 
 ![Hauptmenü](https://github.com/muxi1/MUXI505-PRO/assets/39792666/55a757c3-3103-473d-bad7-777cf87b9113)
 ![Untermenü-Tools](https://user-images.githubusercontent.com/39792666/114219125-8f053b80-996a-11eb-9f02-6cd724b8cbd0.jpg)
@@ -13,7 +13,7 @@ Original (BIN-Loader)
 
 WebRTE
 
-GoldHEN v2.4b17.3 by SiSTR0
+GoldHEN v2.4b18 by SiSTR0
 
 VR Enable v1
 
