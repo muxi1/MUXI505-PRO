@@ -13,7 +13,7 @@ Original (BIN-Loader)
 
 WebRTE
 
-GoldHEN v2.4b18 by SiSTR0
+GoldHEN v2.4b18.2 by SiSTR0
 
 VR Enable v1
 
