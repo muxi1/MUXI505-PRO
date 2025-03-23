@@ -65,4 +65,4 @@ syscall 112 Installer by Zecoxao
 
 Infinix Package Installer
 
-PS4 Debugger 1.1.16 by ctn123
+PS4 Debugger 1.1.17 by ctn123
